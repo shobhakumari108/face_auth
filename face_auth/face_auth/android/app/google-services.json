@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319357936308",
+    "project_id": "test1-28a22",
+    "storage_bucket": "test1-28a22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319357936308:android:b33f5b4734cb4fc28e2de1",
+        "android_client_info": {
+          "package_name": "com.example.face_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa2sW4hBVFW957x8INFjGgTBIrj1SzzGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
